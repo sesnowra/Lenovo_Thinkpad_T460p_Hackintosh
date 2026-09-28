@@ -34,3 +34,11 @@ Malfunctioning_Feature
 1. Apple_Apps
 <br>
 EX) Imessage, FaceTime
+<br>
+<br>
+<br>
+NO_Tested
+<br>
+1. SD_Card_Slot
+<br>
+2. USB3.0
