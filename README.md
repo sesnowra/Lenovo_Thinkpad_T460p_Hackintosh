@@ -1,8 +1,9 @@
 # Lenovo_Thinkpad_T460p_Hackintosh
-_
+<br>
 INFO: Based By MACOS 14.n.n, OpenCore
-_
+<br>
 Functional_Features
+<br>
 1. Sleep
 2. Apple_Account_LOGIN
 3. Sound
@@ -13,7 +14,9 @@ Functional_Features
 8. LAN_Port
 9. Thinkpad_LCD_Backlight_Bright_Fix
 10. Keyboard_backlight
-
+<br>
 Malfunctioning_Feature
+<br>
 1. Apple_Apps
+<br>
 EX) Imessage, FaceTime
